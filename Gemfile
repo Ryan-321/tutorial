@@ -11,6 +11,9 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 gem 'bcrypt', '3.1.11'
+gem 'faker',   '1.6.3'
+gem 'will_paginate',           '3.1.0'
+gem 'bootstrap-will_paginate', '0.0.10'
 
 
 group :development, :test do
